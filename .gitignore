@@ -1,0 +1,14 @@
+# Data directory
+tlc_data/
+
+# Optimization notes and build scripts
+*_GPU_OPTIMIZATION_NOTES.md
+_GPU_OPTIMIZATION_NOTES.md
+GPU_optimization_notes.md
+build_gpu_notebook.py
+
+# Python & OS artifacts
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
